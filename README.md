@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated python developer , able to develop views, templates with Flask and Jinja2 to create user friendly website interface. <br>Implement effective user interface standards and maintain website using HTML, CSS, Bootstrap. Able to implement simple REST APIs with Flask Web APPs. <br>Using of Flask libraries to perform Web Scraping
+Analytical, motivated and hard-working Python developer with almost two years of experience designing, debugging and troubleshooting applications using Flask and Python coding languages. Hoping my development skills will help various industries. Able to implement simple REST APIs and performing web scraping using Flask libraries.
 
 
 ## 🌐 Socials:
