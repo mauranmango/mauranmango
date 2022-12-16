@@ -1,5 +1,5 @@
 # 💫 About Me:
-Analytical, motivated and hard-working Python developer with almost two years of experience designing, debugging and troubleshooting applications using Flask and Python coding languages. Hoping my development skills will help various industries. Able to implement simple REST APIs and performing web scraping using Flask libraries.
+Motivated and hard-working Python Developer with experience in designing, debugging and troubleshooting applications using Flask and Python coding languages. Hoping my development skills will help various industries. Able to implement  REST APIs and performing Web Scraping using Flask libraries and Selenium.
 
 
 ## 🌐 Socials:
