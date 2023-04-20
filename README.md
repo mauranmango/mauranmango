@@ -1,5 +1,5 @@
 # 💫 About Me:
-Motivated and hard-working Python Developer with experience in designing, debugging and troubleshooting applications using Flask and Python coding languages. Able to implement REST APIs and performing Web Scraping using Flask libraries Selenium and BeautifulSoup. Hoping my development skills will help various industries.
+Motivated and hard-working Python Developer with experience in designing, debugging and troubleshooting applications using Flask and Python coding languages. Able to implement REST APIs and performing Web Scraping using Python libraries Selenium and BeautifulSoup. Hoping my development skills will help various industries.
 
 
 ## 🌐 Socials:
